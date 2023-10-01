@@ -4,9 +4,14 @@ This project demonstrates the implementation of CRUD (Create, Read, Update, Dele
 
 <h2>Feature:</h2>
 <h3>Create (C)</h3>
-Users can add new records to the database.
-A user-friendly form collects data and inserts it into the MySQL database.
-Data validation ensures the integrity of the database.
+<ul>
+  <li>Users can add new records to the database.</li>
+  <li>A user-friendly form collects data and inserts it into the MySQL database.</li>
+  <li>Data validation ensures the integrity of the database.</li>
+</ul>
+
+
+
 <h3>Read (R)</h3>
 Users can view existing records from the database.
 Data is presented in a clear and organized manner for easy access.
