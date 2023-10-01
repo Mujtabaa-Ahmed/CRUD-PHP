@@ -45,7 +45,7 @@ This project demonstrates the implementation of CRUD (Create, Read, Update, Dele
 <h2>Getting Started</h2>
 <ul>
   <li>Clone the repository to your local environment.</li>
-  <li>Set up a MySQL database and configure the connection in the PHP files.</li>
+  <li>Set up a MySQL database and configure the connection in the PHP files.(database is added in this repository)</li>
   <li>Navigate to the project folder and run it on your local server.</li>
 </ul>
 
