@@ -9,32 +9,46 @@ This project demonstrates the implementation of CRUD (Create, Read, Update, Dele
   <li>A user-friendly form collects data and inserts it into the MySQL database.</li>
   <li>Data validation ensures the integrity of the database.</li>
 </ul>
-
-
-
 <h3>Read (R)</h3>
-Users can view existing records from the database.
-Data is presented in a clear and organized manner for easy access.
-Pagination and search functionality enhance the user experience.
+<ul>
+  <li>Users can view existing records from the database.</li>
+  <li>Data is presented in a clear and organized manner for easy access.</li>
+  <li>Pagination and search functionality enhance the user experience.</li>
+</ul>
+
+
+
 <h3>Update (U)</h3>
-Users can modify and update existing records.
-An intuitive interface allows users to edit specific fields.
-Changes are reflected in real-time within the database.
+<ul>
+  <li>Users can modify and update existing records.</li>
+  <li>An intuitive interface allows users to edit specific fields.</li>
+  <li>Changes are reflected in real-time within the database.</li>
+</ul>
+
+
+
 <h3>Delete (D)</h3>
-Users can remove records from the database securely.
-Confirmation dialogs prevent accidental deletions.
-Deleted data can be restored only by re-adding it.
+<ul>
+  <li>Users can remove records from the database securely.</li>
+</ul>
 <h2>Technologies Used:</h2>
-PHP: The server-side scripting language for handling requests and database operations.
-MySQL: A robust relational database management system for data storage.
-HTML/CSS: The foundation for creating a user-friendly interface.
-Bootstrap: Enhances the application's aesthetics and responsiveness.
+<ul>
+  <li>PHP: The server-side scripting language for handling requests and database operations.</li>
+  <li>MySQL: A robust relational database management system for data storage.</li>
+  <li>HTML/CSS: The foundation for creating a user-friendly interface.</li>
+  <li>Bootstrap: Enhances the application's aesthetics and responsiveness.</li>
+</ul>
+
+
+
+
 <h2>Getting Started</h2>
-Clone the repository to your local environment.
-Set up a MySQL database and configure the connection in the PHP files.
-Navigate to the project folder and run it on your local server.
-<h2>Usage:</h2>
-Access the web application through your browser.
-Perform CRUD operations to manage data efficiently.
+<ul>
+  <li>Clone the repository to your local environment.</li>
+  <li>Set up a MySQL database and configure the connection in the PHP files.</li>
+  <li>Navigate to the project folder and run it on your local server.</li>
+</ul>
+
+
 <h2>Contribution:</h2>
 We welcome contributions from the open-source community. Feel free to fork the project, make improvements, and submit pull requests.
